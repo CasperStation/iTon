@@ -68,8 +68,9 @@ const Hero = () => {
         id="cta"
         className="flex flex-col items-center opacity-0"
       >
-        <a href="" className="btn">Buy</a>
+        <a href="https://dedust.io/swap/TON/EQB1-yL4Gx2B5M76P8aggdR2UJS6X5sS_6680S15m7jImAwY" className="btn">Buy</a>
         <a style={{ marginTop: '0rem', marginBottom: '1rem' }} className="mt-0 btn" href="https://t.me/iTon_TONMobile" >Telegram</a>
+            <p className="font-normal text-xl">CA: EQB1-yL4Gx2B5M76P8aggdR2UJS6X5sS_6680S15m7jImAwY</p>
         <p className="font-normal text-xl">From DeDust</p>
       </div>
     </section>
