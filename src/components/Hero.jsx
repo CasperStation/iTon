@@ -69,7 +69,7 @@ const Hero = () => {
         className="flex flex-col items-center opacity-0"
       >
         <a href="" className="btn">Buy</a>
-        <a style={{ marginTop: '0rem', marginBottom: '1rem' }} className="mt-0 btn" href="https://t.me/iTon" >Telegram</a>
+        <a style={{ marginTop: '0rem', marginBottom: '1rem' }} className="mt-0 btn" href="https://t.me/iTon_TONMobile" >Telegram</a>
         <p className="font-normal text-xl">From DeDust</p>
       </div>
     </section>
